@@ -15,4 +15,4 @@ youtube-transcript-api
 pyPDF2
 gradio
 requests
-requests
+langchain_groq
