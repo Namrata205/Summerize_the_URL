@@ -16,3 +16,4 @@ pyPDF2
 gradio
 requests
 langchain_groq
+unstructured
